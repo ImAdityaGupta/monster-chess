@@ -1,12 +1,20 @@
 # MonsterChess
 
-**Monster Chess** is a lesser-known variant of chess for which I intermittently developed a minimax-inspired engine between 2019 and 2022. 
+**Monster Chess** is a lesser-known variant of chess for which I intermittently developed a minimax-inspired engine between 2019 and 2022. Includes techniques such as: Zobrist hashing, magic bitboards, depth iteration, and so on.
 
 ---
 
 ## Project Structure
 
 Note: this project is rough round the edges, being written as I was learning best programming practices.
+
+### `Monster_Chess_Research_Writeup.pdf`
+
+- Writeup of research, design, and implementation processes of the project.
+
+### `Monster Chess – Creating a Human - Level Engine.pdf`
+
+- Slides from PowerPoint presentation of the project.
 
 ### `initial_try`
 
@@ -18,6 +26,9 @@ Note: this project is rough round the edges, being written as I was learning bes
 - A much more advanced version with a graphical user interface built using Qt 5.12 and MinGW.
 - In theory, it should run on any Windows machine after setup.
 - Not quite the final version, which will be uploaded soon.
+
+
+
 
 ---
 ## Project Brief
