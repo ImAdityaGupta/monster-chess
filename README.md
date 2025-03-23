@@ -1,10 +1,12 @@
 # MonsterChess
 
-**Monster Chess** is a lesser-known variant of chess for which I intermittently developed a minimax-inspired engine between 2019 and 2022.
+**Monster Chess** is a lesser-known variant of chess for which I intermittently developed a minimax-inspired engine between 2019 and 2022. 
 
 ---
 
 ## Project Structure
+
+Note: this project is rough round the edges, being written as I was learning best programming practices.
 
 ### `initial_try`
 
